@@ -1,0 +1,16 @@
+
+
+User
+Can you write an abstract for the idea of "inferrent altruism", using the principle of active inference, and compare and contrast it to affective and effective altruism?
+GPT
+Inferrent Altruism: An Abstract
+
+In the realm of human motivation and action, altruism occupies a unique and compelling position. Traditional views of altruism, such as affective and effective altruism, emphasize emotional connection and practical impact, respectively. However, a novel conceptualization, termed "Inferrent Altruism," emerges when viewed through the lens of active inference—a framework in my research interests.
+
+Inferrent Altruism, at its core, is an approach to altruistic behavior guided by the principles of active inference. This model postulates that individuals engage in altruistic acts not solely driven by affective empathy or the pursuit of effective outcomes, but rather as a means of reducing uncertainty about the world and their place in it. By helping others, individuals actively infer the type of world they inhabit and their role within it, aligning their beliefs and actions with a perceived moral or social order.
+
+In contrast to affective altruism, which is primarily driven by emotional responses to the suffering of others, Inferrent Altruism is a more cognitive approach. It involves a conscious interpretation of one's environment and actions within it, aiming to align these with one's self-image and values. This alignment reduces cognitive dissonance and provides a sense of psychological coherence.
+
+Effective Altruism, on the other hand, focuses on maximizing the impact of altruistic acts, often using quantitative measures to determine the most effective means of helping others. While Inferrent Altruism values impact, it diverges by prioritizing the reduction of internal uncertainty and alignment of actions with personal and societal values over measurable outcomes.
+
+In summary, Inferrent Altruism proposes a novel viewpoint in the landscape of altruistic behavior. It suggests that the act of helping others is not just a response to external stimuli or a calculated effort to maximize impact but is also a cognitive strategy to affirm one's understanding of the world and one's place within it. This approach provides a unique intersection between the emotional, practical, and cognitive dimensions of altruism, offering rich ground for exploration in the domains of human-computer interaction, information security, and explainable artificial intelligence. ​
